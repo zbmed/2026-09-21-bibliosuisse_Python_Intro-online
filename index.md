@@ -7,10 +7,10 @@ venue: "bibliosuisse + ZB MED - Python Einführung"        # brief name of the i
 address: "online"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
 country: "DE"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes) for the institution that hosts the workshop
 language: "de"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the workshop
-latitude: "50.937531"        # decimal latitude of workshop venue (use https://www.latlong.net/)
-longitude: "6.960279"       # decimal longitude of the workshop venue (use https://www.latlong.net)
+latitude: ""        # decimal latitude of workshop venue (use https://www.latlong.net/)
+longitude: ""       # decimal longitude of the workshop venue (use https://www.latlong.net)
 humandate: "Sep 21, 2026"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "9:00 am - 4:00 om CET"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
+humantime: "9:00 am - 16:00 pm CEST"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
 startdate: 2026-09-21      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2026-09-21        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Rabea Müller", "Till Sauerwein"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
